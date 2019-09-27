@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "180395229979",
+    "firebase_url": "https://rlchat-969c1.firebaseio.com",
+    "project_id": "rlchat-969c1",
+    "storage_bucket": "rlchat-969c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180395229979:android:d965445bfb209451",
+        "android_client_info": {
+          "package_name": "com.example.docusx.rlchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180395229979-gcuheeckpoqr3l4hjmffgv5sfj27g7i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docusx.rlchat",
+            "certificate_hash": "4e31d0f09bb35d126dbc9f459869b827006edeb2"
+          }
+        },
+        {
+          "client_id": "180395229979-h3a6k60q56rda174plantppftgjbaueb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwAmtdecyGcnQzaAkRfrPtPaSDoTMdKyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180395229979-h3a6k60q56rda174plantppftgjbaueb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
